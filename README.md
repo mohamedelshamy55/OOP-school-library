@@ -1,56 +1,27 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# School library(OOP)
 
-# Project Name
+### **Project Description**
 
-> Description the project.
+Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them. The developed CLI app will allow you to:
 
+- Add new students or teachers.
+- Add new books
+- Save records of who borrowed a given book and when
 
-## Built With
+### **Build With**
 
-- Major languages
-- Frameworks
-- Technologies used
+```
+'Ruby'
+```
 
-## Live Demo (if available)
+## Author
 
-[Live Demo Link](https://livedemo.com)
+👤 **Mohamed ELShamy**
 
+- GitHub: [@mohamedelshamy55](https://github.com/mohamedelshamy55)
+- Twitter: [@moelshamy55](https://mobile.twitter.com/moelshamy55)
+- LinkedIn: [mohamedelshamy85](https://www.linkedin.com/in/mohamedelshamy85/)
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 

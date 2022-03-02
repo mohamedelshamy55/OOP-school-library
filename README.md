@@ -24,7 +24,7 @@ git clone https://github.com/mohamedelshamy55/OOP-school-library.git
 
 cd OOP-school-library
 
-ruby person.rb
+ruby main.rb
 ```
 
 ### Prerequisites

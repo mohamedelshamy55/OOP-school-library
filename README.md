@@ -8,11 +8,28 @@ Imagine that you are the librarian of OOP University, and you need a tool to rec
 - Add new books
 - Save records of who borrowed a given book and when
 
-### **Build With**
+## Built With
+
+- Ruby
+- git
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+Clone the project by using terminal:
 
 ```
-'Ruby'
+git clone https://github.com/mohamedelshamy55/OOP-school-library.git
+
+cd OOP-school-library
+
+ruby person.rb
 ```
+
+### Prerequisites
+
+-Ruby
 
 ## Author
 

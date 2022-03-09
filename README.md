@@ -26,6 +26,8 @@ cd OOP-school-library
 
 ruby main.rb
 ```
+## To run the tests
+- Add to the terminal `rspec spec spec/filename.rb`
 
 ### Prerequisites
 
